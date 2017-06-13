@@ -1,0 +1,4 @@
+3,6,9 게임
+3,6,9가 들어간 숫자 출력
+
+Stream.of("3","6","9").filter(s -> strN.indexOf(s) > -1).forEach(s ->{System.out.println(strN);});
